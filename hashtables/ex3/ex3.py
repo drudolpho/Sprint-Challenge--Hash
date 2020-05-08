@@ -3,6 +3,9 @@ def intersection(arrays):
     """
     YOUR CODE HERE
     """
+    result = []
+
+
 
     return result
 
